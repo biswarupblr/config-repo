@@ -1,6 +1,6 @@
 example.organization.property: "I AM THE dev ORGANIZATION SERVICE"
 spring.datasource.driver: "com.mysql.jdbc.Driver"
-spring.datasource.url: "jdbc:mysql://0.tcp.ngrok.io:18310/eagle"
+spring.datasource.url: "jdbc:mysql://0.tcp.ngrok.io:18310/mydb"
 spring.datasource.username: "root"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.MySQLDialect"
 logging.level.org.hibernate.SQL: "debug"
