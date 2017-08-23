@@ -1,0 +1,7 @@
+example.organization.property: "I AM THE AWS ORGANIZATION SERVICE"
+spring.datasource.driver: "com.mysql.jdbc.Driver"
+spring.datasource.url: "jdbc:mysql://testdbinstance.cdpar9vtkvnw.us-east-2.rds.amazonaws.com:3306/mydb"
+spring.datasource.username: "testUser"
+spring.datasource.password: "testUser"
+spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.MySQLDialect"
+logging.level.org.hibernate.SQL: "debug"
